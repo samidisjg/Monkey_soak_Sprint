@@ -3,18 +3,7 @@
 Monkey Soak Sprint is an exciting mobile game where you must protect a monkey from raindrops while collecting bananas to increase your score. How long can you keep the monkey safe?
 
 
-## Gameplay
-
-- **Objective**: Protect the monkey from raindrops and collect as many bananas as possible to increase your score.
-- **Controls**: Tap or swipe on the screen to move the monkey horizontally.
-- **Scoring**: 
-  - Each time the monkey successfully escapes a raindrop, your score increases by one.
-  - Catching bananas increases your score by two.
-- **Speed**: The speed of the raindrops gradually increases as the game progresses.
-- **High Score**: Your highest score is recorded and displayed both during gameplay and on the main screen.
-- **End Game**: The game ends if the monkey is hit by a raindrop.
-
-## Instructions
+## Gameplay Instructions
 
 1. **Objective**: Protect the monkey from raindrops and collect bananas to increase your score and achieve the highest score possible.
 2. **Controls**: Tap or swipe on the screen to move the monkey horizontally, avoiding raindrops and collecting bananas.
