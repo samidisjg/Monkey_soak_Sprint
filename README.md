@@ -32,6 +32,7 @@ Monkey Soak Sprint is an exciting mobile game where you must protect a monkey fr
 - **UI Design**: Developed mainly using LinearLayout and ConstraintLayout for intuitive UI design.
 - **Data Storage**: Utilized SharedPreferences to store and update the highest score.
 
+![Gameplay Screenshot](Picture1.png)
 -By Samidi Jayawickrama-
 
 
