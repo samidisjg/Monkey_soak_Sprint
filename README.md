@@ -1,7 +1,7 @@
 # Monkey Soak Sprint
 
 Monkey Soak Sprint is an exciting mobile game where you must protect a monkey from raindrops while collecting bananas to increase your score. How long can you keep the monkey safe?
-Develeoped using kotlin.#Android Studio
+
 
 ## Gameplay
 
@@ -28,7 +28,7 @@ Develeoped using kotlin.#Android Studio
 8. **Start**: Begin your adventure by helping the monkey escape from the soak sprint!
 
 ## Development
-
+-**Develeoped using kotlin**: #Android Studio
 - **UI Design**: Developed mainly using LinearLayout and ConstraintLayout for intuitive UI design.
 - **Data Storage**: Utilized SharedPreferences to store and update the highest score.
 
