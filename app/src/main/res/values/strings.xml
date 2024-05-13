@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monkey_Soak_Sprint</string>
+    <string name="score_0">Score : 0</string>
+    <string name="begin_adventure">Begin Adventure</string>
+    <string name="highest_Score">"Highest Score: </string>
+    <string name="launchName">Monkey-Soak-Sprint</string>
+</resources>

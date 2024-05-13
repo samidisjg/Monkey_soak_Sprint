@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/rootLayout"
+    android:gravity="center"
+    android:layout_height="fill_parent"
+    android:background="@drawable/startback1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/score"
+        android:textSize="25sp"
+        android:text = "@string/score_0"
+        android:textAlignment="center"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       />
+
+
+    <TextView
+        android:id="@+id/highestScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="@string/highest_Score"
+        android:textAlignment="center"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_margin="15dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="@string/begin_adventure"
+        android:textSize="25dp"
+        app:backgroundTint = "#FF5722"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
